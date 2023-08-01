@@ -4,11 +4,24 @@ project:
 
 website:
   title: "Rafael Bressan"
+  favicon: img/favicon2.jpg
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: research.qmd
+        text: Research
+      - text: Teaching
+        menu: 
+          - href: microeconomia1.qmd
+            text: Microeconomia I
+          - href: econometria3.qmd
+            text: Econometria III
+          - href: int_trade.qmd
+            text: International Trade
+          - href: microeconometrics1.qmd
+            text: Microeconometrics I
 
 format:
   html:

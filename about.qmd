@@ -1,5 +1,47 @@
 ---
 title: "About"
 ---
+I am currently a Tax Auditor at Receita Federal do Brasil (Brazilian Internal Revenue Service) and an Assistant Professor at Universidade do Estado de Santa Catarina - UDESC.
 
-About this site
+
+## Education
+
+**Fundação Getúlio Vargas**
+
+_Master in Economics_
+
+Jan 2020 – Mar 2022 São Paulo, SP
+
+Advisor: Prof. [Enlinson Mattos](https://sites.google.com/site/enlinsonmattos/)
+
+- Thesis: [Non-tariff barriers, trading companies and customs duties evasion](https://bibliotecadigital.fgv.br/dspace/handle/10438/31815)
+
+**Pontifícia Universidade Católica-MG**
+
+_Specialization in Data Science and Big Data_ 
+
+Nov 2019 — Apr 2021 Belo Horizonte, MG
+
+Research: Causal Inference with Machine Learning: a tax evasion application
+
+
+**Universidade do Estado de SC**
+
+_Economic Sciences_
+
+Mar 2016 – Dec 2019 Florianópolis, SC
+
+Advisor: Prof. Daniel de Souza
+
+- Research: Value at risk in different volatility regimes: Evidence from international assets
+- Corecon\SC award as best Economic Sciences student
+- Best undergraduate research award
+- Best undergraduate thesis award
+
+**Universidade Federal de SC**
+
+_Eng. Controle e Automação Industrial_
+
+Mar 1998 – Dec 2002 Florianópolis, SC
+
+You can download my **Curriculum Vitae** [here](media/Academic_CV.pdf).

@@ -1,0 +1,14 @@
+---
+title: "Research"
+
+---
+
+## Working Papers
+
+Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion
+
+Bressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at [Research Gate](https://www.researchgate.net/publication/331865699_Value_at_risk_in_different_volatility_regimes_Evidence_from_international_assets).
+
+## Publications
+
+Bressan, R., Souza, D. A., & de Amarante, A. (2021). Aplicando a teoria do valor extremo ao cálculo de risco de índices setoriais da B3. _Revista Brasileira de Economia de Empresas, 21_(1).

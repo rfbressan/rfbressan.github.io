@@ -4,13 +4,258 @@
     "href": "index.html",
     "title": "Rafael Bressan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am currently a Tax Auditor at Receita Federal do Brasil (Brazilian Internal Revenue Service) and an Assistant Professor at Universidade do Estado de Santa Catarina - UDESC."
+  },
+  {
+    "objectID": "index.html#rafael-bressan",
+    "href": "index.html#rafael-bressan",
+    "title": "Rafael Bressan",
+    "section": "",
+    "text": "Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Rafael Bressan",
+    "section": "Interests",
+    "text": "Interests\n\nTaxation and Tax Evasion/Avoidance\nInternational Trade\nCausal Machine Learning\nR and Python programming languages\nBig Data at the public administration"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nFundação Getúlio Vargas\nMaster in Economics\nJan 2020 – Mar 2022 São Paulo, SP\nAdvisor: Prof. Enlinson Mattos\n\nThesis: Non-tariff barriers, trading companies and customs duties evasion\n\nPontifícia Universidade Católica-MG\nSpecialization in Data Science and Big Data\nNov 2019 — Apr 2021 Belo Horizonte, MG\nResearch: Causal Inference with Machine Learning: a tax evasion application\nUniversidade do Estado de SC\nEconomic Sciences\nMar 2016 – Dec 2019 Florianópolis, SC\nAdvisor: Prof. Daniel de Souza\n\nResearch: Value at risk in different volatility regimes: Evidence from international assets\nCoreconaward as best Economic Sciences student\nBest undergraduate research award\nBest undergraduate thesis award\n\nUniversidade Federal de SC\nEng. Controle e Automação Industrial\nMar 1998 – Dec 2002 Florianópolis, SC\nYou can download my Curriculum Vitae here."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion\nBressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at Research Gate."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion\nBressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at Research Gate."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nBressan, R., Souza, D. A., & de Amarante, A. (2021). Aplicando a teoria do valor extremo ao cálculo de risco de índices setoriais da B3. Revista Brasileira de Economia de Empresas, 21(1)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Bem-vindos a Microeconomia I Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea."
+  },
+  {
+    "objectID": "teaching.html#microeconomia-i",
+    "href": "teaching.html#microeconomia-i",
+    "title": "Teaching",
+    "section": "",
+    "text": "Bem-vindos a Microeconomia I Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea."
+  },
+  {
+    "objectID": "teaching.html#econometria-iii",
+    "href": "teaching.html#econometria-iii",
+    "title": "Teaching",
+    "section": "Econometria III",
+    "text": "Econometria III"
+  },
+  {
+    "objectID": "teaching.html#theory-and-quantitative-methods-in-international-trade",
+    "href": "teaching.html#theory-and-quantitative-methods-in-international-trade",
+    "title": "Teaching",
+    "section": "Theory and Quantitative Methods in International Trade",
+    "text": "Theory and Quantitative Methods in International Trade"
+  },
+  {
+    "objectID": "teaching.html#microeconometrics-i",
+    "href": "teaching.html#microeconometrics-i",
+    "title": "Teaching",
+    "section": "Microeconometrics I",
+    "text": "Microeconometrics I"
+  },
+  {
+    "objectID": "econometria3.html",
+    "href": "econometria3.html",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Neste curso você aprenderá algumas das principais ferramentas atualmente utilizadas em microeconometria. Modelos com dados em painel, regressão com efeitos-fixos, diferença-em-diferenças, modelos de equações simultâneas, variáveis instrumentais e mínimos quadrados em dois estágios (MQ2E) e, modelos com variável dependente limitada.\nVocê também aprenderá a usar a linguagem de programação R para fazer as manipulações de dados, estimações e testes de hipóteses, entretanto, este não é um curso de R e uma leitura complementar é sugerida.\nEste material é baseado no trabalho da equipe ScPoEcon, de Edward Rubin, de Nick CH K e o devido crédito é dado. O material foi traduzido para português e levemente adaptado para o ensino de econometria no Brasil. Os decks de slides originais podem ser encontrados em ScPoEconometrics-Slides, EC 421 e, Nick\n\n\nVocê precisa ter feito os cursos de Econometria I e II na Esag (ou equivalente). Você também é incentivado durante o curso a se familiarizar com o conhecimento de R para aproveitar ao máximo todo o conteúdo ofertado neste curso.\n\n\n\nContinuamos com nossa abordagem prática para aprender Econometria e R. Conheceremos um importante método para estabelecer relações casuais em dados não experimentais, chamado de “Variáveis Instrumentais”. Aprenderemos sobre dados em painel, ou seja, dados que rastreiam indivíduos ao longo do tempo. Veremos situações em que nossos variáveis dependentes são de natureza discreta, como “sujeito i escolhe a opção A (e não B)”, além de modelos de equações simultâneas, onde duas variáveis dependentes são determinadas concomitantemente.\n\n\n\nObserve que várias dessas aulas se estendem por duas ou mais sessões.\n\n\n\nTópico\nSlides\nLista\n\n\n\n\nAula 1: Causalidade\nHTML\n\n\n\nAula 2: Variáveis Instrumentais e Causalidade - Parte I\nHTML\n\n\n\nAula 3: Variáveis Instrumentais e Causalidade - Parte II\nHTML\nHTML\n\n\nAula 4: Modelos de Equações Simultâneas\nHTML\nHTML\n\n\nAula 5: Dados em Painel - Parte I\nHTML\nHTML\n\n\nAula 6: Dados em Painel - Diferenças em Diferenças\nHTML\nHTML\n\n\nAula 7: Modelos de Escolha Qualitativa\nHTML\nHTML\n\n\n\n\n\n\n\nWOOLDRIDGE, Jeffrey M. Introdução à econometria: uma abordagem moderna. São Paulo: Cengage Learning, 2016. Tradução da 4ª edição norte-americana por José Antonio Ferreira.\nGUJARATI, Damodar N.; PORTER, Dawn C. Econometria básica. Porto Alegre: Amgh Editora, 2011. - 5. ed. \nBÉKÉS, Gábor; KÉZDI, Gábor. Data analysis for business, economics, and policy. Cambridge University Press, 2021.\nGERTLER, Paul J. et al. Avaliação de Impacto na Prática, 2018. - 2. ed. Banco Mundial.\nCUNNINGHAM, Scott. Causal Inference: The Mixtape, New Haven: Yale University Press, 2021. URL: https://mixtape.scunning.com/\nANGRIST, Joshua D.; PISCHKE, Jörn-Steffen. Mastering’metrics: The path from cause to effect. Princeton university press, 2014. URL: http://www.masteringmetrics.com/\nANGRIST, Joshua D.; PISCHKE, Jörn-Steffen. Mostly harmless econometrics: An empiricist’s companion. Princeton university press, 2009.\nWOOLDRIDGE, Jeffrey M. Econometric Analysis of Cross Section and Panel Data. MIT press, 2010. Second Edition.\nHANSEN, Bruce E. Econometrics. Manuscript, revision of February 2020.\n\nProgramação em R\n\nFREIRE, Sergio M. Introdução ao R. 2021. URL: http://www.lampada.uerj.br/introducaoaor\nMcDERMOTT, Grant. Data science for economists. URL: https://github.com/uo-ec607/lectures#lecture-outline-and-quicklinks\nR Core Team. An Introduction to R. URL: https://cran.r-project.org/doc/manuals/r-release/R-intro.html\nHANCK, Christoph et al. Introduction to Econometrics with R. University of Duisburg-Essen, 2019. URL: https://www.econometrics-with-r.org/\nHEISS, Florian. Using R for Introductory Econometrics. URL: http://urfie.net/\nWICKHAM, Hadley; GROLEMUND, Garrett. R for data science: import, tidy, transform, visualize, and model data. O’Reilly Media, Inc., 2016. URL: https://r4ds.had.co.nz/\n\n\n\n\n\nCausal Data Science Causal Data Science com Marcel Ribeiro Dantas (Sorbonne University)\nIntrodução Latex Introdução Latex\nEconomia e Ciência de Dados Economia e Ciência de Dados com prof. Rafael Martins de Souza (FGV/EPGE)\nCarreira e Aplicações de Econometria Carreira e Aplicações de Econometria com Luiz A. Esteves (Economista chefe do Banco do Nordeste)\n\n\n\n\n\nIntroduction to Causal Inference by Brady Neal\nCourse in Econometrics - part II Course in Econometrics - part II by Ben Lambert\nColetânea de cursos de Econometria\nMicrosoft’s Experimentation\nBooking.datasience\nCausal AI papers\nCoding for Economists (Python)\n\n\n\n\nO sistema de avaliação da disciplina se dará da seguinte maneira:\n\n3 Provas escritas, presenciais, com os seguintes pesos: 30%, 35% e 35%.\nÉ obrigatória a frequência em no mínimo 75% das aulas para aprovação.\n\n\n\n\nVocê pode copiar e adaptar este material para seus propósitos, contanto que dê os devidos créditos e compartilhe o trabalho nos mesmos termos. Claro que você pode usar os slides para ensinar em suas salas de aula. Crédito Apropriado significa que em algum lugar em seus slides há um link para o repositório original, EC 421 e, NickCH-K indicando que é sobre aqueles trabalhos que você está construindo. Clique no ícone para detalhes.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "econometria3.html#pré-requisitos",
+    "href": "econometria3.html#pré-requisitos",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Você precisa ter feito os cursos de Econometria I e II na Esag (ou equivalente). Você também é incentivado durante o curso a se familiarizar com o conhecimento de R para aproveitar ao máximo todo o conteúdo ofertado neste curso."
+  },
+  {
+    "objectID": "econometria3.html#visão-geral",
+    "href": "econometria3.html#visão-geral",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Continuamos com nossa abordagem prática para aprender Econometria e R. Conheceremos um importante método para estabelecer relações casuais em dados não experimentais, chamado de “Variáveis Instrumentais”. Aprenderemos sobre dados em painel, ou seja, dados que rastreiam indivíduos ao longo do tempo. Veremos situações em que nossos variáveis dependentes são de natureza discreta, como “sujeito i escolhe a opção A (e não B)”, além de modelos de equações simultâneas, onde duas variáveis dependentes são determinadas concomitantemente."
+  },
+  {
+    "objectID": "econometria3.html#programa-e-slides",
+    "href": "econometria3.html#programa-e-slides",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Observe que várias dessas aulas se estendem por duas ou mais sessões.\n\n\n\nTópico\nSlides\nLista\n\n\n\n\nAula 1: Causalidade\nHTML\n\n\n\nAula 2: Variáveis Instrumentais e Causalidade - Parte I\nHTML\n\n\n\nAula 3: Variáveis Instrumentais e Causalidade - Parte II\nHTML\nHTML\n\n\nAula 4: Modelos de Equações Simultâneas\nHTML\nHTML\n\n\nAula 5: Dados em Painel - Parte I\nHTML\nHTML\n\n\nAula 6: Dados em Painel - Diferenças em Diferenças\nHTML\nHTML\n\n\nAula 7: Modelos de Escolha Qualitativa\nHTML\nHTML"
+  },
+  {
+    "objectID": "econometria3.html#bibliografia-recomendada",
+    "href": "econometria3.html#bibliografia-recomendada",
+    "title": "Econometria III",
+    "section": "",
+    "text": "WOOLDRIDGE, Jeffrey M. Introdução à econometria: uma abordagem moderna. São Paulo: Cengage Learning, 2016. Tradução da 4ª edição norte-americana por José Antonio Ferreira.\nGUJARATI, Damodar N.; PORTER, Dawn C. Econometria básica. Porto Alegre: Amgh Editora, 2011. - 5. ed. \nBÉKÉS, Gábor; KÉZDI, Gábor. Data analysis for business, economics, and policy. Cambridge University Press, 2021.\nGERTLER, Paul J. et al. Avaliação de Impacto na Prática, 2018. - 2. ed. Banco Mundial.\nCUNNINGHAM, Scott. Causal Inference: The Mixtape, New Haven: Yale University Press, 2021. URL: https://mixtape.scunning.com/\nANGRIST, Joshua D.; PISCHKE, Jörn-Steffen. Mastering’metrics: The path from cause to effect. Princeton university press, 2014. URL: http://www.masteringmetrics.com/\nANGRIST, Joshua D.; PISCHKE, Jörn-Steffen. Mostly harmless econometrics: An empiricist’s companion. Princeton university press, 2009.\nWOOLDRIDGE, Jeffrey M. Econometric Analysis of Cross Section and Panel Data. MIT press, 2010. Second Edition.\nHANSEN, Bruce E. Econometrics. Manuscript, revision of February 2020.\n\nProgramação em R\n\nFREIRE, Sergio M. Introdução ao R. 2021. URL: http://www.lampada.uerj.br/introducaoaor\nMcDERMOTT, Grant. Data science for economists. URL: https://github.com/uo-ec607/lectures#lecture-outline-and-quicklinks\nR Core Team. An Introduction to R. URL: https://cran.r-project.org/doc/manuals/r-release/R-intro.html\nHANCK, Christoph et al. Introduction to Econometrics with R. University of Duisburg-Essen, 2019. URL: https://www.econometrics-with-r.org/\nHEISS, Florian. Using R for Introductory Econometrics. URL: http://urfie.net/\nWICKHAM, Hadley; GROLEMUND, Garrett. R for data science: import, tidy, transform, visualize, and model data. O’Reilly Media, Inc., 2016. URL: https://r4ds.had.co.nz/"
+  },
+  {
+    "objectID": "econometria3.html#videos",
+    "href": "econometria3.html#videos",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Causal Data Science Causal Data Science com Marcel Ribeiro Dantas (Sorbonne University)\nIntrodução Latex Introdução Latex\nEconomia e Ciência de Dados Economia e Ciência de Dados com prof. Rafael Martins de Souza (FGV/EPGE)\nCarreira e Aplicações de Econometria Carreira e Aplicações de Econometria com Luiz A. Esteves (Economista chefe do Banco do Nordeste)"
+  },
+  {
+    "objectID": "econometria3.html#outros-recursos",
+    "href": "econometria3.html#outros-recursos",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Introduction to Causal Inference by Brady Neal\nCourse in Econometrics - part II Course in Econometrics - part II by Ben Lambert\nColetânea de cursos de Econometria\nMicrosoft’s Experimentation\nBooking.datasience\nCausal AI papers\nCoding for Economists (Python)"
+  },
+  {
+    "objectID": "econometria3.html#avaliação",
+    "href": "econometria3.html#avaliação",
+    "title": "Econometria III",
+    "section": "",
+    "text": "O sistema de avaliação da disciplina se dará da seguinte maneira:\n\n3 Provas escritas, presenciais, com os seguintes pesos: 30%, 35% e 35%.\nÉ obrigatória a frequência em no mínimo 75% das aulas para aprovação."
+  },
+  {
+    "objectID": "econometria3.html#legal",
+    "href": "econometria3.html#legal",
+    "title": "Econometria III",
+    "section": "",
+    "text": "Você pode copiar e adaptar este material para seus propósitos, contanto que dê os devidos créditos e compartilhe o trabalho nos mesmos termos. Claro que você pode usar os slides para ensinar em suas salas de aula. Crédito Apropriado significa que em algum lugar em seus slides há um link para o repositório original, EC 421 e, NickCH-K indicando que é sobre aqueles trabalhos que você está construindo. Clique no ícone para detalhes.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "microeconomia1.html",
+    "href": "microeconomia1.html",
+    "title": "Rafael Bressan",
+    "section": "",
+    "text": "Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!\nEste material é baseado no trabalho do professor Paulo Victor da Fonseca. Os alunos são incentivados a lerem o material disponibilizado no site da disciplina Microeconomia I."
+  },
+  {
+    "objectID": "microeconomia1.html#bem-vindos-a-microeconomia-i",
+    "href": "microeconomia1.html#bem-vindos-a-microeconomia-i",
+    "title": "Rafael Bressan",
+    "section": "",
+    "text": "Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!\nEste material é baseado no trabalho do professor Paulo Victor da Fonseca. Os alunos são incentivados a lerem o material disponibilizado no site da disciplina Microeconomia I."
+  },
+  {
+    "objectID": "microeconomia1.html#informações",
+    "href": "microeconomia1.html#informações",
+    "title": "Rafael Bressan",
+    "section": "Informações",
+    "text": "Informações\nDocente:  Rafael Felipe Bressan \nContato: Via mensagem do Moodle\nLocal: Sala 51, ESAG/UDESC\nHorários:\n\nQuartas-feiras das 08:20 às 10:00\nSextas-feiras das 08:20 às 10:00"
+  },
+  {
+    "objectID": "microeconomia1.html#descrição-do-curso",
+    "href": "microeconomia1.html#descrição-do-curso",
+    "title": "Rafael Bressan",
+    "section": "Descrição do curso",
+    "text": "Descrição do curso\nCurso de Microeconomia I para o segundo termo da Graduação em Ciências Econômicas da UDESC."
+  },
+  {
+    "objectID": "microeconomia1.html#ementa-do-curso",
+    "href": "microeconomia1.html#ementa-do-curso",
+    "title": "Rafael Bressan",
+    "section": "Ementa do curso",
+    "text": "Ementa do curso\nRestrição orçamentária. Preferências do consumidor. Comportamento do consumidor. Demanda individual e demanda de mercado. Elasticidade. Preferência revelada. Equação de Slutsky. Escolhas sob incerteza e ativos de risco. Escolha intertemporal. Excedente do consumidor e do produtor. Tecnologias de produção. Maximização de lucros. Minimização de custos. Curvas de custo. Oferta da empresa e oferta de mercado."
+  },
+  {
+    "objectID": "microeconomia1.html#pré-requisitos",
+    "href": "microeconomia1.html#pré-requisitos",
+    "title": "Rafael Bressan",
+    "section": "Pré-requisitos",
+    "text": "Pré-requisitos\n\n13FMI - Fundamentos de Microeconomia\n11MTM1 - Matemática I"
+  },
+  {
+    "objectID": "microeconomia1.html#programa",
+    "href": "microeconomia1.html#programa",
+    "title": "Rafael Bressan",
+    "section": "Programa",
+    "text": "Programa\n\nIntrodução.\nComportamento do consumidor e demanda: teoria da preferência binária.\nComportamento do produtor e oferta.\nEquilíbrio parcial de mercados perfeitamente competitivos."
+  },
+  {
+    "objectID": "microeconomia1.html#slides",
+    "href": "microeconomia1.html#slides",
+    "title": "Rafael Bressan",
+    "section": "Slides",
+    "text": "Slides\nObserve que várias dessas aulas se estendem por duas ou mais sessões.\n\n\n\nTópico\nSlides\nLista\n\n\n\n\nAula 1: Introdução a Microeconomia\nHTML\n\n\n\nAula 2: Matemática\nHTML\n\n\n\nAula 3: Restrição Orçamentária\nHTML\n\n\n\nAula 4: Preferências\nHTML\n\n\n\nAula 5: Maximização de Utilidade\nHTML\n\n\n\nAula 6: Demanda Marshalliana\nHTML\nLista 01\n\n\nAula 7: Efeito Renda e Substituição\nHTML\n\n\n\nAula 8: Equação de Slutsky\nHTML\n\n\n\nAula 9: Elasticidades da Demanda\nHTML\n\n\n\nAula 10: Relações de Demanda entre Bens\nHTML\n\n\n\nAula 11: Escolha sob Incerteza\nHTML\n\n\n\nAula 12: Escolha Intertemporal\nHTML\nLista 02\n\n\nAula 13: Excedente do Consumidor\nHTML\n\n\n\nAula 14: Tecnologia de Produção\nHTML\n\n\n\nAula 15: Curvas de Custos\nHTML\n\n\n\nAula 16: Maximização de Lucros\nHTML\n\n\n\nAula 17: Minimização de Custos\nHTML\nLista 03"
+  },
+  {
+    "objectID": "microeconomia1.html#bibliografia",
+    "href": "microeconomia1.html#bibliografia",
+    "title": "Rafael Bressan",
+    "section": "📚 Bibliografia",
+    "text": "📚 Bibliografia\n👉 VARIAN, H. R. Microeconomia: uma abordagem moderna. 9.ed. Rio de Janeiro: Elsevier, 2015.\nNICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019.\nPINDYCK, R. S.; RUBINFELD, D. L. Microeconomia. 8. ed. São Paulo: Pearson Education do Brasil, 2013.\nJEHLE, G. A.; RENY, P. J. Advanced microeconomic theory. 3.ed. Pearson Education Limited, 2011."
+  },
+  {
+    "objectID": "microeconomia1.html#videos",
+    "href": "microeconomia1.html#videos",
+    "title": "Rafael Bressan",
+    "section": "Videos",
+    "text": "Videos"
+  },
+  {
+    "objectID": "microeconomia1.html#outros-recursos",
+    "href": "microeconomia1.html#outros-recursos",
+    "title": "Rafael Bressan",
+    "section": "Outros Recursos",
+    "text": "Outros Recursos"
+  },
+  {
+    "objectID": "microeconomia1.html#avaliação",
+    "href": "microeconomia1.html#avaliação",
+    "title": "Rafael Bressan",
+    "section": "Avaliação",
+    "text": "Avaliação\nO sistema de avaliação da disciplina se dará da seguinte maneira:\n\n3 listas de exercícios a serem entregues no Moodle. O Total de listas conta 20% na nota antes do exame.\n3 Provas escritas, presenciais, com os seguintes pesos: 25%, 25% e 30%.\nÉ obrigatória a frequência em no mínimo 75% das aulas para aprovação.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "microeconometrics1.html",
+    "href": "microeconometrics1.html",
+    "title": "Microeconometrics I",
+    "section": "",
+    "text": "Teaching assistance of Microeconometrics I. EESP 2021\n\nClass 1: Introduction to data.table R package\nClass 2: Linear Regressions with fixest R package\nClass 3: Minimum Detectable Effect\n\n3.1 Inference\n3.2 Power\n\nClass 4: Bootstrap and Randomization Inference\nClass 5: Propensity Score and Covariates Balancing\nClass 6: Estimations: Matching, Subclassification and Doubly-Robust\nClass 7: Manski Bounds"
+  },
+  {
+    "objectID": "int_trade.html",
+    "href": "int_trade.html",
+    "title": "Theory and Quantitative Methods in International Trade",
+    "section": "",
+    "text": "Teaching assistance of Theory and Quantitative Methods in International Trade. EESP 2022\n\nClass 1: Useful datasets and links\nClass 2: The Eaton and Kortum model\nClass 3: Expenditure and export shares\nClass 4: Trade costs\nClass 5: Contrafactual Analysis\nClass 6: Artuç et. al model"
   }
 ]

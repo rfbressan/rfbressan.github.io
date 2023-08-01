@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rafael Bressan</title>
+<title>Rafael Bressan - Econometria III</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -82,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -106,14 +107,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./econometria3.html" rel="" target="">
  <span class="dropdown-text">Econometria III</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./int_trade.html" rel="" target="">
- <span class="dropdown-text">International Trade</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./microeconometrics1.html" rel="" target="">
- <span class="dropdown-text">Microeconometrics I</span></a>
-  </li>  
     </ul>
   </li>
 </ul>
@@ -130,54 +123,167 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
-  <li><a href="#interests" id="toc-interests" class="nav-link active" data-scroll-target="#interests">Interests</a></li>
+  <li><a href="#bem-vindos" id="toc-bem-vindos" class="nav-link active" data-scroll-target="#bem-vindos">Bem-vindos</a>
+  <ul class="collapse">
+  <li><a href="#pré-requisitos" id="toc-pré-requisitos" class="nav-link" data-scroll-target="#pré-requisitos">Pré-requisitos</a></li>
+  <li><a href="#visão-geral" id="toc-visão-geral" class="nav-link" data-scroll-target="#visão-geral">Visão geral</a></li>
+  <li><a href="#programa-e-slides" id="toc-programa-e-slides" class="nav-link" data-scroll-target="#programa-e-slides">Programa e slides</a></li>
+  <li><a href="#bibliografia-recomendada" id="toc-bibliografia-recomendada" class="nav-link" data-scroll-target="#bibliografia-recomendada">Bibliografia Recomendada</a></li>
+  <li><a href="#videos" id="toc-videos" class="nav-link" data-scroll-target="#videos">Videos</a></li>
+  <li><a href="#outros-recursos" id="toc-outros-recursos" class="nav-link" data-scroll-target="#outros-recursos">Outros Recursos</a></li>
+  <li><a href="#avaliação" id="toc-avaliação" class="nav-link" data-scroll-target="#avaliação">Avaliação</a></li>
+  <li><a href="#legal" id="toc-legal" class="nav-link" data-scroll-target="#legal">Legal</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Rafael Bressan</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header> <div class="about-links">
-  <a href="https://www.linkedin.com/in/rafael-bressan-5b4063b3/" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/rfbressan" class="about-link" rel="" target="">
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://twitter.com/RafaelBressan9" class="about-link" rel="" target="">
-     <span class="about-link-text">Twitter</span>
-  </a>
-</div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-<p>Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade.</p>
-<section id="interests" class="level2">
-<h2 data-anchor-id="interests">Interests</h2>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Econometria III</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="bem-vindos" class="level1">
+<h1>Bem-vindos</h1>
+<p>Neste curso você aprenderá algumas das principais ferramentas atualmente utilizadas em <strong><em>microeconometria</em></strong>. Modelos com dados em painel, regressão com efeitos-fixos, diferença-em-diferenças, modelos de equações simultâneas, variáveis instrumentais e mínimos quadrados em dois estágios (MQ2E) e, modelos com variável dependente limitada.</p>
+<p>Você também aprenderá a usar a linguagem de programação <code>R</code> para fazer as manipulações de dados, estimações e testes de hipóteses, entretanto, este <strong>não</strong> é um curso de <code>R</code> e uma leitura complementar é sugerida.</p>
+<p>Este material é baseado no trabalho da equipe <code>ScPoEcon</code>, de <code>Edward Rubin</code>, de <code>Nick CH K</code> e o devido crédito é dado. O material foi traduzido para português e levemente adaptado para o ensino de econometria no Brasil. Os decks de slides originais podem ser encontrados em <a href="https://github.com/ScPoEcon/Advanced-Metrics-slides">ScPoEconometrics-Slides</a>, <a href="https://github.com/edrubin/EC421S19">EC 421</a> e, <a href="https://github.com/NickCH-K/EconometricsSlides">Nick</a></p>
+<section id="pré-requisitos" class="level2">
+<h2 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h2>
+<p>Você precisa ter feito os cursos de Econometria I e II na Esag (ou equivalente). Você também é incentivado durante o curso a se familiarizar com o conhecimento de <a href="https://cran.r-project.org/"><code>R</code></a> para aproveitar ao máximo todo o conteúdo ofertado neste curso.</p>
+</section>
+<section id="visão-geral" class="level2">
+<h2 class="anchored" data-anchor-id="visão-geral">Visão geral</h2>
+<p>Continuamos com nossa abordagem prática para aprender Econometria e <code>R</code>. Conheceremos um importante método para estabelecer relações casuais em dados não experimentais, chamado de “Variáveis Instrumentais”. Aprenderemos sobre dados em painel, ou seja, dados que rastreiam indivíduos ao longo do tempo. Veremos situações em que nossos variáveis dependentes são de natureza discreta, como “sujeito <em>i</em> escolhe a opção A (e não B)”, além de modelos de equações simultâneas, onde duas variáveis dependentes são determinadas concomitantemente.</p>
+</section>
+<section id="programa-e-slides" class="level2">
+<h2 class="anchored" data-anchor-id="programa-e-slides">Programa e slides</h2>
+<p>Observe que várias dessas aulas se estendem por duas ou mais sessões.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tópico</th>
+<th>Slides</th>
+<th>Lista</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Aula 1: Causalidade</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/01-causalidade/01-causality_pt.html">HTML</a></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Aula 2: Variáveis Instrumentais e Causalidade - Parte I</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/03-IV/03-IV_pt.html">HTML</a></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Aula 3: Variáveis Instrumentais e Causalidade - Parte II</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/04-IV2/04-IV2_pt.html">HTML</a></td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/psets/Questoes_causalidade_vi.html">HTML</a></td>
+</tr>
+<tr class="even">
+<td>Aula 4: Modelos de Equações Simultâneas</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/05-simultaneas/05-simultaneas_pt.html">HTML</a></td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/psets/Questoes_Simultaneas.html">HTML</a></td>
+</tr>
+<tr class="odd">
+<td>Aula 5: Dados em Painel - Parte I</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/06-panel/06-panel_pt.html">HTML</a></td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/psets/Questoes_Painel.html">HTML</a></td>
+</tr>
+<tr class="even">
+<td>Aula 6: Dados em Painel - Diferenças em Diferenças</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/07-DID/07_DID_pt.html">HTML</a></td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/psets/Questoes_DID.html">HTML</a></td>
+</tr>
+<tr class="odd">
+<td>Aula 7: Modelos de Escolha Qualitativa</td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/lectures/02-probit/02-probit_pt.html">HTML</a></td>
+<td><a href="https://raw.githack.com/rfbressan/econometria3_slides/master/psets/Questoes_Probit.html">HTML</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="bibliografia-recomendada" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografia-recomendada">Bibliografia Recomendada</h2>
 <ul>
-<li>Taxation and Tax Evasion/Avoidance</li>
-<li>International Trade</li>
-<li>Causal Machine Learning</li>
-<li>R and Python programming languages</li>
-<li>Big Data at the public administration</li>
+<li><p>WOOLDRIDGE, Jeffrey M. Introdução à econometria: uma abordagem moderna. São Paulo: Cengage Learning, 2016. Tradução da 4ª edição norte-americana por José Antonio Ferreira.</p></li>
+<li><p>GUJARATI, Damodar N.; PORTER, Dawn C. Econometria básica. Porto Alegre: Amgh Editora, 2011. - 5. ed.&nbsp;</p></li>
+<li><p>BÉKÉS, Gábor; KÉZDI, Gábor. Data analysis for business, economics, and policy. Cambridge University Press, 2021.</p></li>
+<li><p>GERTLER, Paul J. et al.&nbsp;Avaliação de Impacto na Prática, 2018. - 2. ed.&nbsp;Banco Mundial.</p></li>
+<li><p>CUNNINGHAM, Scott. Causal Inference: The Mixtape, New Haven: Yale University Press, 2021. URL: https://mixtape.scunning.com/</p></li>
+<li><p>ANGRIST, Joshua D.; PISCHKE, Jörn-Steffen. Mastering’metrics: The path from cause to effect. Princeton university press, 2014. URL: http://www.masteringmetrics.com/</p></li>
+<li><p>ANGRIST, Joshua D.; PISCHKE, Jörn-Steffen. Mostly harmless econometrics: An empiricist’s companion. Princeton university press, 2009.</p></li>
+<li><p>WOOLDRIDGE, Jeffrey M. Econometric Analysis of Cross Section and Panel Data. MIT press, 2010. Second Edition.</p></li>
+<li><p>HANSEN, Bruce E. Econometrics. Manuscript, revision of February 2020.</p></li>
 </ul>
+<p><strong>Programação em R</strong></p>
+<ul>
+<li><p>FREIRE, Sergio M. Introdução ao R. 2021. URL: http://www.lampada.uerj.br/introducaoaor</p></li>
+<li><p>McDERMOTT, Grant. Data science for economists. URL: https://github.com/uo-ec607/lectures#lecture-outline-and-quicklinks</p></li>
+<li><p>R Core Team. An Introduction to R. URL: https://cran.r-project.org/doc/manuals/r-release/R-intro.html</p></li>
+<li><p>HANCK, Christoph et al.&nbsp;Introduction to Econometrics with R. University of Duisburg-Essen, 2019. URL: https://www.econometrics-with-r.org/</p></li>
+<li><p>HEISS, Florian. Using R for Introductory Econometrics. URL: http://urfie.net/</p></li>
+<li><p>WICKHAM, Hadley; GROLEMUND, Garrett. R for data science: import, tidy, transform, visualize, and model data. O’Reilly Media, Inc., 2016. URL: https://r4ds.had.co.nz/</p></li>
+</ul>
+</section>
+<section id="videos" class="level2">
+<h2 class="anchored" data-anchor-id="videos">Videos</h2>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=MguFFgUfcbc&amp;list=PLSMHA74lM-x3NTV2vJoxWdB1qdsSMjcFL&amp;index=1&amp;t=5603s">Causal Data Science</a> Causal Data Science com Marcel Ribeiro Dantas (Sorbonne University)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=EumeZnyvTzA&amp;list=PLSMHA74lM-x3NTV2vJoxWdB1qdsSMjcFL&amp;index=2&amp;t=3213s">Introdução Latex</a> Introdução Latex</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=6Q3SXs5agaU&amp;list=PLSMHA74lM-x2VglhXkdbHEH80T2a_XgRr&amp;index=2&amp;t=4765s">Economia e Ciência de Dados</a> Economia e Ciência de Dados com prof. Rafael Martins de Souza (FGV/EPGE)</p></li>
+<li><p><a href="https://www.youtube.com/watch?v=VKZe49nNtxw&amp;list=PLSMHA74lM-x2VglhXkdbHEH80T2a_XgRr&amp;index=3&amp;t=2182s">Carreira e Aplicações de Econometria</a> Carreira e Aplicações de Econometria com Luiz A. Esteves (Economista chefe do Banco do Nordeste)</p></li>
+</ul>
+</section>
+<section id="outros-recursos" class="level2">
+<h2 class="anchored" data-anchor-id="outros-recursos">Outros Recursos</h2>
+<ul>
+<li><p><a href="https://www.bradyneal.com/causal-inference-course">Introduction to Causal Inference</a> by Brady Neal</p></li>
+<li><p><a href="https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU">Course in Econometrics - part II</a> Course in Econometrics - part II by Ben Lambert</p></li>
+<li><p><a href="https://giuseppecavaliere.wixsite.com/giuseppe/econometrics-courses">Coletânea de cursos de Econometria</a></p></li>
+<li><p><a href="https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/">Microsoft’s Experimentation</a></p></li>
+<li><p><a href="https://booking.ai">Booking.datasience</a></p></li>
+<li><p><a href="https://www.causalens.com/causal-ai-papers/">Causal AI papers</a></p></li>
+<li><p><a href="https://aeturrell.github.io/coding-for-economists/intro.html">Coding for Economists (Python)</a></p></li>
+</ul>
+</section>
+<section id="avaliação" class="level2">
+<h2 class="anchored" data-anchor-id="avaliação">Avaliação</h2>
+<p>O sistema de avaliação da disciplina se dará da seguinte maneira:</p>
+<ul>
+<li><p>3 Provas escritas, presenciais, com os seguintes pesos: 30%, 35% e 35%.</p></li>
+<li><p>É obrigatória a frequência em no mínimo 75% das aulas para aprovação.</p></li>
+</ul>
+</section>
+<section id="legal" class="level2">
+<h2 class="anchored" data-anchor-id="legal">Legal</h2>
+<p>Você pode copiar e adaptar este material para seus propósitos, contanto que dê os devidos créditos e compartilhe o trabalho nos mesmos termos. Claro que você pode usar os slides para ensinar em suas salas de aula. <em>Crédito Apropriado</em> significa que em algum lugar em seus slides há um link para o repositório <a href="https://github.com/ScPoEcon/Advanced-Metrics-slides">original</a>, <a href="https://github.com/edrubin/EC421S19">EC 421</a> e, <a href="https://github.com/NickCH-K/EconometricsSlides">NickCH-K</a> indicando que é sobre aqueles trabalhos que você está construindo. Clique no ícone para detalhes.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a><br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 
 
 </section>
-</main></div>
-    </div>
-    <img src="img/cover.jpeg" class="about-image
-  rounded " style="width: 10em;">
-  </div>
-</div>
- <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -198,6 +304,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

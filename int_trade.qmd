@@ -1,0 +1,17 @@
+---
+title: Theory and Quantitative Methods in International Trade
+---
+
+Teaching assistance of Theory and Quantitative Methods in International Trade. EESP 2022
+
+- [Class 1](https://raw.githack.com/rfbressan/ta_quant_trade/main/01_useful.html): Useful datasets and links
+
+- [Class 2](https://raw.githack.com/rfbressan/ta_quant_trade/main/02_eatonkortum.html): The Eaton and Kortum model
+
+- [Class 3](https://raw.githack.com/rfbressan/ta_quant_trade/main/03_expenditures.html): Expenditure and export shares
+
+- [Class 4](https://raw.githack.com/rfbressan/ta_quant_trade/main/04_tradecosts.html): Trade costs
+
+- [Class 5](https://raw.githack.com/rfbressan/ta_quant_trade/main/05_contrafactual.html): Contrafactual Analysis
+
+- [Class 6](https://raw.githack.com/rfbressan/ta_quant_trade/main/06_artuc.html): Artuç et. al model
