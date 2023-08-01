@@ -7,20 +7,6 @@
     "text": "Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am currently a Tax Auditor at Receita Federal do Brasil (Brazilian Internal Revenue Service) and an Assistant Professor at Universidade do Estado de Santa Catarina - UDESC."
-  },
-  {
-    "objectID": "index.html#rafael-bressan",
-    "href": "index.html#rafael-bressan",
-    "title": "Rafael Bressan",
-    "section": "",
-    "text": "Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade."
-  },
-  {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "Rafael Bressan",
@@ -28,74 +14,18 @@
     "text": "Interests\n\nTaxation and Tax Evasion/Avoidance\nInternational Trade\nCausal Machine Learning\nR and Python programming languages\nBig Data at the public administration"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently a Tax Auditor at Receita Federal do Brasil (Brazilian Internal Revenue Service) and an Assistant Professor at Universidade do Estado de Santa Catarina - UDESC."
+  },
+  {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
     "text": "Education\nFundação Getúlio Vargas\nMaster in Economics\nJan 2020 – Mar 2022 São Paulo, SP\nAdvisor: Prof. Enlinson Mattos\n\nThesis: Non-tariff barriers, trading companies and customs duties evasion\n\nPontifícia Universidade Católica-MG\nSpecialization in Data Science and Big Data\nNov 2019 — Apr 2021 Belo Horizonte, MG\nResearch: Causal Inference with Machine Learning: a tax evasion application\nUniversidade do Estado de SC\nEconomic Sciences\nMar 2016 – Dec 2019 Florianópolis, SC\nAdvisor: Prof. Daniel de Souza\n\nResearch: Value at risk in different volatility regimes: Evidence from international assets\nCoreconaward as best Economic Sciences student\nBest undergraduate research award\nBest undergraduate thesis award\n\nUniversidade Federal de SC\nEng. Controle e Automação Industrial\nMar 1998 – Dec 2002 Florianópolis, SC\nYou can download my Curriculum Vitae here."
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion\nBressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at Research Gate."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion\nBressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at Research Gate."
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nBressan, R., Souza, D. A., & de Amarante, A. (2021). Aplicando a teoria do valor extremo ao cálculo de risco de índices setoriais da B3. Revista Brasileira de Economia de Empresas, 21(1)."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Bem-vindos a Microeconomia I Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea."
-  },
-  {
-    "objectID": "teaching.html#microeconomia-i",
-    "href": "teaching.html#microeconomia-i",
-    "title": "Teaching",
-    "section": "",
-    "text": "Bem-vindos a Microeconomia I Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea."
-  },
-  {
-    "objectID": "teaching.html#econometria-iii",
-    "href": "teaching.html#econometria-iii",
-    "title": "Teaching",
-    "section": "Econometria III",
-    "text": "Econometria III"
-  },
-  {
-    "objectID": "teaching.html#theory-and-quantitative-methods-in-international-trade",
-    "href": "teaching.html#theory-and-quantitative-methods-in-international-trade",
-    "title": "Teaching",
-    "section": "Theory and Quantitative Methods in International Trade",
-    "text": "Theory and Quantitative Methods in International Trade"
-  },
-  {
-    "objectID": "teaching.html#microeconometrics-i",
-    "href": "teaching.html#microeconometrics-i",
-    "title": "Teaching",
-    "section": "Microeconometrics I",
-    "text": "Microeconometrics I"
   },
   {
     "objectID": "econometria3.html",
@@ -161,88 +91,32 @@
     "text": "Você pode copiar e adaptar este material para seus propósitos, contanto que dê os devidos créditos e compartilhe o trabalho nos mesmos termos. Claro que você pode usar os slides para ensinar em suas salas de aula. Crédito Apropriado significa que em algum lugar em seus slides há um link para o repositório original, EC 421 e, NickCH-K indicando que é sobre aqueles trabalhos que você está construindo. Clique no ícone para detalhes.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   },
   {
-    "objectID": "microeconomia1.html",
-    "href": "microeconomia1.html",
-    "title": "Rafael Bressan",
+    "objectID": "int_trade.html",
+    "href": "int_trade.html",
+    "title": "Theory and Quantitative Methods in International Trade",
     "section": "",
-    "text": "Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!\nEste material é baseado no trabalho do professor Paulo Victor da Fonseca. Os alunos são incentivados a lerem o material disponibilizado no site da disciplina Microeconomia I."
+    "text": "Teaching assistance of Theory and Quantitative Methods in International Trade. EESP 2022\n\nClass 1: Useful datasets and links\nClass 2: The Eaton and Kortum model\nClass 3: Expenditure and export shares\nClass 4: Trade costs\nClass 5: Contrafactual Analysis\nClass 6: Artuç et. al model"
   },
   {
-    "objectID": "microeconomia1.html#bem-vindos-a-microeconomia-i",
-    "href": "microeconomia1.html#bem-vindos-a-microeconomia-i",
-    "title": "Rafael Bressan",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!\nEste material é baseado no trabalho do professor Paulo Victor da Fonseca. Os alunos são incentivados a lerem o material disponibilizado no site da disciplina Microeconomia I."
+    "text": "Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion\nBressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at Research Gate."
   },
   {
-    "objectID": "microeconomia1.html#informações",
-    "href": "microeconomia1.html#informações",
-    "title": "Rafael Bressan",
-    "section": "Informações",
-    "text": "Informações\nDocente:  Rafael Felipe Bressan \nContato: Via mensagem do Moodle\nLocal: Sala 51, ESAG/UDESC\nHorários:\n\nQuartas-feiras das 08:20 às 10:00\nSextas-feiras das 08:20 às 10:00"
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Bressan, R. & Mattos, E. (2023). Nontariff Barriers and the Elasticity of Customs Duties Evasion\nBressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in different volatility regimes: Evidence from international assets. Available at Research Gate."
   },
   {
-    "objectID": "microeconomia1.html#descrição-do-curso",
-    "href": "microeconomia1.html#descrição-do-curso",
-    "title": "Rafael Bressan",
-    "section": "Descrição do curso",
-    "text": "Descrição do curso\nCurso de Microeconomia I para o segundo termo da Graduação em Ciências Econômicas da UDESC."
-  },
-  {
-    "objectID": "microeconomia1.html#ementa-do-curso",
-    "href": "microeconomia1.html#ementa-do-curso",
-    "title": "Rafael Bressan",
-    "section": "Ementa do curso",
-    "text": "Ementa do curso\nRestrição orçamentária. Preferências do consumidor. Comportamento do consumidor. Demanda individual e demanda de mercado. Elasticidade. Preferência revelada. Equação de Slutsky. Escolhas sob incerteza e ativos de risco. Escolha intertemporal. Excedente do consumidor e do produtor. Tecnologias de produção. Maximização de lucros. Minimização de custos. Curvas de custo. Oferta da empresa e oferta de mercado."
-  },
-  {
-    "objectID": "microeconomia1.html#pré-requisitos",
-    "href": "microeconomia1.html#pré-requisitos",
-    "title": "Rafael Bressan",
-    "section": "Pré-requisitos",
-    "text": "Pré-requisitos\n\n13FMI - Fundamentos de Microeconomia\n11MTM1 - Matemática I"
-  },
-  {
-    "objectID": "microeconomia1.html#programa",
-    "href": "microeconomia1.html#programa",
-    "title": "Rafael Bressan",
-    "section": "Programa",
-    "text": "Programa\n\nIntrodução.\nComportamento do consumidor e demanda: teoria da preferência binária.\nComportamento do produtor e oferta.\nEquilíbrio parcial de mercados perfeitamente competitivos."
-  },
-  {
-    "objectID": "microeconomia1.html#slides",
-    "href": "microeconomia1.html#slides",
-    "title": "Rafael Bressan",
-    "section": "Slides",
-    "text": "Slides\nObserve que várias dessas aulas se estendem por duas ou mais sessões.\n\n\n\nTópico\nSlides\nLista\n\n\n\n\nAula 1: Introdução a Microeconomia\nHTML\n\n\n\nAula 2: Matemática\nHTML\n\n\n\nAula 3: Restrição Orçamentária\nHTML\n\n\n\nAula 4: Preferências\nHTML\n\n\n\nAula 5: Maximização de Utilidade\nHTML\n\n\n\nAula 6: Demanda Marshalliana\nHTML\nLista 01\n\n\nAula 7: Efeito Renda e Substituição\nHTML\n\n\n\nAula 8: Equação de Slutsky\nHTML\n\n\n\nAula 9: Elasticidades da Demanda\nHTML\n\n\n\nAula 10: Relações de Demanda entre Bens\nHTML\n\n\n\nAula 11: Escolha sob Incerteza\nHTML\n\n\n\nAula 12: Escolha Intertemporal\nHTML\nLista 02\n\n\nAula 13: Excedente do Consumidor\nHTML\n\n\n\nAula 14: Tecnologia de Produção\nHTML\n\n\n\nAula 15: Curvas de Custos\nHTML\n\n\n\nAula 16: Maximização de Lucros\nHTML\n\n\n\nAula 17: Minimização de Custos\nHTML\nLista 03"
-  },
-  {
-    "objectID": "microeconomia1.html#bibliografia",
-    "href": "microeconomia1.html#bibliografia",
-    "title": "Rafael Bressan",
-    "section": "📚 Bibliografia",
-    "text": "📚 Bibliografia\n👉 VARIAN, H. R. Microeconomia: uma abordagem moderna. 9.ed. Rio de Janeiro: Elsevier, 2015.\nNICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019.\nPINDYCK, R. S.; RUBINFELD, D. L. Microeconomia. 8. ed. São Paulo: Pearson Education do Brasil, 2013.\nJEHLE, G. A.; RENY, P. J. Advanced microeconomic theory. 3.ed. Pearson Education Limited, 2011."
-  },
-  {
-    "objectID": "microeconomia1.html#videos",
-    "href": "microeconomia1.html#videos",
-    "title": "Rafael Bressan",
-    "section": "Videos",
-    "text": "Videos"
-  },
-  {
-    "objectID": "microeconomia1.html#outros-recursos",
-    "href": "microeconomia1.html#outros-recursos",
-    "title": "Rafael Bressan",
-    "section": "Outros Recursos",
-    "text": "Outros Recursos"
-  },
-  {
-    "objectID": "microeconomia1.html#avaliação",
-    "href": "microeconomia1.html#avaliação",
-    "title": "Rafael Bressan",
-    "section": "Avaliação",
-    "text": "Avaliação\nO sistema de avaliação da disciplina se dará da seguinte maneira:\n\n3 listas de exercícios a serem entregues no Moodle. O Total de listas conta 20% na nota antes do exame.\n3 Provas escritas, presenciais, com os seguintes pesos: 25%, 25% e 30%.\nÉ obrigatória a frequência em no mínimo 75% das aulas para aprovação.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nBressan, R., Souza, D. A., & de Amarante, A. (2021). Aplicando a teoria do valor extremo ao cálculo de risco de índices setoriais da B3. Revista Brasileira de Economia de Empresas, 21(1)."
   },
   {
     "objectID": "microeconometrics1.html",
@@ -252,10 +126,87 @@
     "text": "Teaching assistance of Microeconometrics I. EESP 2021\n\nClass 1: Introduction to data.table R package\nClass 2: Linear Regressions with fixest R package\nClass 3: Minimum Detectable Effect\n\n3.1 Inference\n3.2 Power\n\nClass 4: Bootstrap and Randomization Inference\nClass 5: Propensity Score and Covariates Balancing\nClass 6: Estimations: Matching, Subclassification and Doubly-Robust\nClass 7: Manski Bounds"
   },
   {
-    "objectID": "int_trade.html",
-    "href": "int_trade.html",
-    "title": "Theory and Quantitative Methods in International Trade",
+    "objectID": "microeconomia1.html",
+    "href": "microeconomia1.html",
+    "title": "Microeconomia I",
     "section": "",
-    "text": "Teaching assistance of Theory and Quantitative Methods in International Trade. EESP 2022\n\nClass 1: Useful datasets and links\nClass 2: The Eaton and Kortum model\nClass 3: Expenditure and export shares\nClass 4: Trade costs\nClass 5: Contrafactual Analysis\nClass 6: Artuç et. al model"
+    "text": "Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!\nEste material é baseado no trabalho do professor Paulo Victor da Fonseca. Os alunos são incentivados a lerem o material disponibilizado no site da disciplina Microeconomia I."
+  },
+  {
+    "objectID": "microeconomia1.html#bem-vindos",
+    "href": "microeconomia1.html#bem-vindos",
+    "title": "Microeconomia I",
+    "section": "",
+    "text": "Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!\nEste material é baseado no trabalho do professor Paulo Victor da Fonseca. Os alunos são incentivados a lerem o material disponibilizado no site da disciplina Microeconomia I."
+  },
+  {
+    "objectID": "microeconomia1.html#informações",
+    "href": "microeconomia1.html#informações",
+    "title": "Microeconomia I",
+    "section": "Informações",
+    "text": "Informações\nDocente:  Rafael Felipe Bressan \nContato: Via mensagem do Moodle\nLocal: Sala 51, ESAG/UDESC\nHorários:\n\nQuartas-feiras das 08:20 às 10:00\nSextas-feiras das 08:20 às 10:00"
+  },
+  {
+    "objectID": "microeconomia1.html#descrição-do-curso",
+    "href": "microeconomia1.html#descrição-do-curso",
+    "title": "Microeconomia I",
+    "section": "Descrição do curso",
+    "text": "Descrição do curso\nCurso de Microeconomia I para o segundo termo da Graduação em Ciências Econômicas da UDESC."
+  },
+  {
+    "objectID": "microeconomia1.html#ementa-do-curso",
+    "href": "microeconomia1.html#ementa-do-curso",
+    "title": "Microeconomia I",
+    "section": "Ementa do curso",
+    "text": "Ementa do curso\nRestrição orçamentária. Preferências do consumidor. Comportamento do consumidor. Demanda individual e demanda de mercado. Elasticidade. Preferência revelada. Equação de Slutsky. Escolhas sob incerteza e ativos de risco. Escolha intertemporal. Excedente do consumidor e do produtor. Tecnologias de produção. Maximização de lucros. Minimização de custos. Curvas de custo. Oferta da empresa e oferta de mercado."
+  },
+  {
+    "objectID": "microeconomia1.html#pré-requisitos",
+    "href": "microeconomia1.html#pré-requisitos",
+    "title": "Microeconomia I",
+    "section": "Pré-requisitos",
+    "text": "Pré-requisitos\n\n13FMI - Fundamentos de Microeconomia\n11MTM1 - Matemática I"
+  },
+  {
+    "objectID": "microeconomia1.html#programa",
+    "href": "microeconomia1.html#programa",
+    "title": "Microeconomia I",
+    "section": "Programa",
+    "text": "Programa\n\nIntrodução.\nComportamento do consumidor e demanda: teoria da preferência binária.\nComportamento do produtor e oferta.\nEquilíbrio parcial de mercados perfeitamente competitivos."
+  },
+  {
+    "objectID": "microeconomia1.html#slides",
+    "href": "microeconomia1.html#slides",
+    "title": "Microeconomia I",
+    "section": "Slides",
+    "text": "Slides\nObserve que várias dessas aulas se estendem por duas ou mais sessões.\n\n\n\nTópico\nSlides\nLista\n\n\n\n\nAula 1: Introdução a Microeconomia\nHTML\n\n\n\nAula 2: Matemática\nHTML\n\n\n\nAula 3: Restrição Orçamentária\nHTML\n\n\n\nAula 4: Preferências\nHTML\n\n\n\nAula 5: Maximização de Utilidade\nHTML\n\n\n\nAula 6: Demanda Marshalliana\nHTML\nLista 01\n\n\nAula 7: Efeito Renda e Substituição\nHTML\n\n\n\nAula 8: Equação de Slutsky\nHTML\n\n\n\nAula 9: Elasticidades da Demanda\nHTML\n\n\n\nAula 10: Relações de Demanda entre Bens\nHTML\n\n\n\nAula 11: Escolha sob Incerteza\nHTML\n\n\n\nAula 12: Escolha Intertemporal\nHTML\nLista 02\n\n\nAula 13: Excedente do Consumidor\nHTML\n\n\n\nAula 14: Tecnologia de Produção\nHTML\n\n\n\nAula 15: Curvas de Custos\nHTML\n\n\n\nAula 16: Maximização de Lucros\nHTML\n\n\n\nAula 17: Minimização de Custos\nHTML\nLista 03"
+  },
+  {
+    "objectID": "microeconomia1.html#bibliografia",
+    "href": "microeconomia1.html#bibliografia",
+    "title": "Microeconomia I",
+    "section": "📚 Bibliografia",
+    "text": "📚 Bibliografia\n👉 VARIAN, H. R. Microeconomia: uma abordagem moderna. 9.ed. Rio de Janeiro: Elsevier, 2015.\nNICHOLSON, W.; SNYDER C. Teoria microeconômica: Princípios básicos e aplicações. Cengage Learning Brasil, 2019.\nPINDYCK, R. S.; RUBINFELD, D. L. Microeconomia. 8. ed. São Paulo: Pearson Education do Brasil, 2013.\nJEHLE, G. A.; RENY, P. J. Advanced microeconomic theory. 3.ed. Pearson Education Limited, 2011."
+  },
+  {
+    "objectID": "microeconomia1.html#videos",
+    "href": "microeconomia1.html#videos",
+    "title": "Microeconomia I",
+    "section": "Videos",
+    "text": "Videos"
+  },
+  {
+    "objectID": "microeconomia1.html#outros-recursos",
+    "href": "microeconomia1.html#outros-recursos",
+    "title": "Microeconomia I",
+    "section": "Outros Recursos",
+    "text": "Outros Recursos"
+  },
+  {
+    "objectID": "microeconomia1.html#avaliação",
+    "href": "microeconomia1.html#avaliação",
+    "title": "Microeconomia I",
+    "section": "Avaliação",
+    "text": "Avaliação\nO sistema de avaliação da disciplina se dará da seguinte maneira:\n\n3 listas de exercícios a serem entregues no Moodle. O Total de listas conta 20% na nota antes do exame.\n3 Provas escritas, presenciais, com os seguintes pesos: 25%, 25% e 30%.\nÉ obrigatória a frequência em no mínimo 75% das aulas para aprovação.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   }
 ]
