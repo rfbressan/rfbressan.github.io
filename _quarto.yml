@@ -9,7 +9,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: research.qmd
         text: Research
       - text: Teaching
@@ -22,7 +21,7 @@ website:
             text: International Trade
           - href: microeconometrics1.qmd
             text: Microeconometrics I
-
+      - about.qmd
 format:
   html:
     theme: cosmo

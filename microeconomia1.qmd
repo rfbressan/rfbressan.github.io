@@ -1,7 +1,8 @@
 ---
+title: "Microeconomia I"
 from: markdown+emoji
 ---
-## Bem-vindos a Microeconomia I
+## Bem-vindos
 
 Neste curso você aprenderá sobre os modelos básicos referentes aos comportamentos do consumidor e do produtor, que são os blocos básicos de construção da análise microeconômica contemporânea. A disciplina apresentará os conceitos e ferramentas fundamentais para entender como os agentes econômicos tomam decisões e interagem nos mercados. Vocês vão descobrir como a microeconomia pode ajudar a explicar fenômenos como a formação de preços, a oferta e demanda, a elasticidade, os custos de produção e muito mais. Espero que vocês aproveitem o curso e se divirtam com a microeconomia!
 
