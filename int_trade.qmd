@@ -12,6 +12,6 @@ Teaching assistance of Theory and Quantitative Methods in International Trade. E
 
 - [Class 4](https://raw.githack.com/rfbressan/ta_quant_trade/main/04_tradecosts.html): Trade costs
 
-- [Class 5](https://raw.githack.com/rfbressan/ta_quant_trade/main/05_contrafactual.html): Contrafactual Analysis
+- [Class 5](https://raw.githack.com/rfbressan/ta_quant_trade/main/05_counterfactual.html): Contrafactual Analysis
 
 - [Class 6](https://raw.githack.com/rfbressan/ta_quant_trade/main/06_artuc.html): Artuç et. al model
