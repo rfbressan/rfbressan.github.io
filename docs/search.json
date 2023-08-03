@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rafael Bressan",
-    "section": "",
-    "text": "Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade."
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Rafael Bressan",
-    "section": "Interests",
-    "text": "Interests\n\nTaxation and Tax Evasion/Avoidance\nInternational Trade\nCausal Machine Learning\nR and Python programming languages\nBig Data at the public administration"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am currently a Tax Auditor at Receita Federal do Brasil (Brazilian Internal Revenue Service) and an Assistant Professor at Universidade do Estado de Santa Catarina - UDESC."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\nFundação Getúlio Vargas\nMaster in Economics\nJan 2020 – Mar 2022 São Paulo, SP\nAdvisor: Prof. Enlinson Mattos\n\nThesis: Non-tariff barriers, trading companies and customs duties evasion\n\nPontifícia Universidade Católica-MG\nSpecialization in Data Science and Big Data\nNov 2019 — Apr 2021 Belo Horizonte, MG\nResearch: Causal Inference with Machine Learning: a tax evasion application\nUniversidade do Estado de SC\nEconomic Sciences\nMar 2016 – Dec 2019 Florianópolis, SC\nAdvisor: Prof. Daniel de Souza\n\nResearch: Value at risk in different volatility regimes: Evidence from international assets\nCoreconaward as best Economic Sciences student\nBest undergraduate research award\nBest undergraduate thesis award\n\nUniversidade Federal de SC\nEng. Controle e Automação Industrial\nMar 1998 – Dec 2002 Florianópolis, SC\nYou can download my Curriculum Vitae here."
-  },
-  {
     "objectID": "econometria3.html",
     "href": "econometria3.html",
     "title": "Econometria III",
@@ -91,11 +63,32 @@
     "text": "Você pode copiar e adaptar este material para seus propósitos, contanto que dê os devidos créditos e compartilhe o trabalho nos mesmos termos. Claro que você pode usar os slides para ensinar em suas salas de aula. Crédito Apropriado significa que em algum lugar em seus slides há um link para o repositório original, EC 421 e, NickCH-K indicando que é sobre aqueles trabalhos que você está construindo. Clique no ícone para detalhes.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   },
   {
-    "objectID": "int_trade.html",
-    "href": "int_trade.html",
-    "title": "Theory and Quantitative Methods in International Trade",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rafael Bressan",
     "section": "",
-    "text": "Teaching assistance of Theory and Quantitative Methods in International Trade. EESP 2022\n\nClass 1: Useful datasets and links\nClass 2: The Eaton and Kortum model\nClass 3: Expenditure and export shares\nClass 4: Trade costs\nClass 5: Contrafactual Analysis\nClass 6: Artuç et. al model"
+    "text": "Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Rafael Bressan",
+    "section": "Interests",
+    "text": "Interests\n\nTaxation and Tax Evasion/Avoidance\nInternational Trade\nCausal Machine Learning\nR and Python programming languages\nBig Data at the public administration"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently a Tax Auditor at Receita Federal do Brasil (Brazilian Internal Revenue Service) and an Assistant Professor at Universidade do Estado de Santa Catarina - UDESC."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nFundação Getúlio Vargas\nMaster in Economics\nJan 2020 – Mar 2022 São Paulo, SP\nAdvisor: Prof. Enlinson Mattos\n\nThesis: Non-tariff barriers, trading companies and customs duties evasion\n\nPontifícia Universidade Católica-MG\nSpecialization in Data Science and Big Data\nNov 2019 — Apr 2021 Belo Horizonte, MG\nResearch: Causal Inference with Machine Learning: a tax evasion application\nUniversidade do Estado de SC\nEconomic Sciences\nMar 2016 – Dec 2019 Florianópolis, SC\nAdvisor: Prof. Daniel de Souza\n\nResearch: Value at risk in different volatility regimes: Evidence from international assets\nCoreconaward as best Economic Sciences student\nBest undergraduate research award\nBest undergraduate thesis award\n\nUniversidade Federal de SC\nEng. Controle e Automação Industrial\nMar 1998 – Dec 2002 Florianópolis, SC\nYou can download my Curriculum Vitae here."
   },
   {
     "objectID": "research.html",
@@ -117,6 +110,13 @@
     "title": "Research",
     "section": "Publications",
     "text": "Publications\nBressan, R., Souza, D. A., & de Amarante, A. (2021). Aplicando a teoria do valor extremo ao cálculo de risco de índices setoriais da B3. Revista Brasileira de Economia de Empresas, 21(1)."
+  },
+  {
+    "objectID": "int_trade.html",
+    "href": "int_trade.html",
+    "title": "Theory and Quantitative Methods in International Trade",
+    "section": "",
+    "text": "Teaching assistance of Theory and Quantitative Methods in International Trade. EESP 2022\n\nClass 1: Useful datasets and links\nClass 2: The Eaton and Kortum model\nClass 3: Expenditure and export shares\nClass 4: Trade costs\nClass 5: Contrafactual Analysis\nClass 6: Artuç et. al model"
   },
   {
     "objectID": "microeconometrics1.html",
