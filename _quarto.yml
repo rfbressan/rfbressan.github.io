@@ -22,11 +22,20 @@ website:
           - href: microeconometrics1.qmd
             text: Microeconometrics I
       - about.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rafael-bressan-5b4063b3/
+      - icon: github
+        href: https://github.com/rfbressan
+      - icon: twitter
+        href: https://twitter.com/RafaelBressan9
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 
 
