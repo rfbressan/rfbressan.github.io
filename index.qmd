@@ -11,7 +11,7 @@ about:
     - text: GitHub
       href: https://github.com/rfbressan
     - text: Gmail
-      href: mailto: rfbressan@gmail.com
+      href: "mailto:rfbressan@gmail.com"
     # - text: Twitter
     #   href: https://twitter.com/RafaelBressan9
 ---
