@@ -49,4 +49,5 @@ po/*~
 rsconnect/
 
 /.quarto/
-/papers/
+
+**/*.quarto_ipynb
