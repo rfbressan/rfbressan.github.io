@@ -11,6 +11,6 @@ RETIRED - Bressan, R., Souza, D. A., & de Amarante, A. (2020). Value at risk in 
 
 ## Publications
 
-[Bressan, R., & Mattos, E. (2026). The effect of nontariff barriers on unreported trade: exploring a customs duty reform.](https://academic.oup.com/oep/article-abstract/78/1/259/8332374) Oxford Economic Papers, 78(1), 259-288. [{{< fa code title="Code" >}}]() | [{{< fa file-pdf title="PDF" >}}](papers/2026-10-26_ECDE_NTB.pdf.pdf) | [{{< fa file-pdf title="Online Appendix" >}}](papers/2026-10-26_ECDE_NTB_online_appendix.pdf) | [{{< fa person-chalkboard title="Slides" >}}](papers/BressanMattos2022-IIPF.pdf)
+[Bressan, R., & Mattos, E. (2026). The effect of nontariff barriers on unreported trade: exploring a customs duty reform.](https://academic.oup.com/oep/article-abstract/78/1/259/8332374) Oxford Economic Papers, 78(1), 259-288. [{{< fa code title="Code" >}}]() | [{{< fa file-pdf title="PDF" >}}](papers/2026-10-26_ECDE_NTB.pdf) | [{{< fa file-pdf title="Online Appendix" >}}](papers/2026-10-26_ECDE_NTB_online_appendix.pdf) | [{{< fa person-chalkboard title="Slides" >}}](papers/BressanMattos2022-IIPF.pdf)
 
 Bressan, R., Souza, D. A., & de Amarante, A. (2021). Aplicando a teoria do valor extremo ao cálculo de risco de índices setoriais da B3. [_Revista Brasileira de Economia de Empresas, 21_(1).](https://portalrevistas.ucb.br/index.php/rbee/article/view/10378)
