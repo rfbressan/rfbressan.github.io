@@ -10,8 +10,10 @@ about:
       href: https://www.linkedin.com/in/rafael-bressan-5b4063b3/
     - text: GitHub
       href: https://github.com/rfbressan
-    - text: Twitter
-      href: https://twitter.com/RafaelBressan9
+    - text: Gmail
+      href: mailto: rfbressan@gmail.com
+    # - text: Twitter
+    #   href: https://twitter.com/RafaelBressan9
 ---
 
 Auditor-Fiscal da Receita Federal do Brasil working at customs audits. M.Sc. in Economics and B.Sc. in Control and Automation Engineering with a great interest on causal inference, microeconometrics, quantitative methods and machine learning applied to public economics and international trade.
